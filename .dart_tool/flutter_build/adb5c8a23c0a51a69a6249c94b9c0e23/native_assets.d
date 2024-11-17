@@ -1,1 +1,0 @@
- /Users/esdras/repositorio/fatec/dsm/ldmp/f290_ldmp_web_desktop_playground/.dart_tool/flutter_build/adb5c8a23c0a51a69a6249c94b9c0e23/native_assets.yaml: 

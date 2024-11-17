@@ -170,10 +170,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-10-11T01:38:35.896775Z",
+  "generated": "2024-11-17T22:18:44.408306Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/esdras/flutter",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.24.5",
   "pubCache": "file:///Users/esdras/.pub-cache"
 }
